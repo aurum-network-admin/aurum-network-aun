@@ -18,7 +18,7 @@
 - **Ecosystem Development:** Cj6XACRKwRkPzXNtXkwYZGdBkgt6iBWEneRcDEadnzsY - 158,000,000
 - **Team:** 4twJTBDWrZy69tWv8S7UG8afEYZiMhAt9JU4inHo1HnP - 100,000,000
 - **Marketing:** 4LRJHyqbMe6cLhyqwps3R5iYN5J4mVoMxvoxqnpgTaFv - 50,000,000
-- **Liquidity and Listing:** Dd3KA8hwa7isgGnawfEqxpmrHvhymaHyHNGiov3mjNxz - 50,000,000
+- **Liquidity and Listing:** Gq7fW2cb8aEL7u2ebVnA6jcZEGNBci7d9ZbRQjH7LgPu - 50,000,000
 - **Staking:** 5C2iRP3GFRiEveazqPPYTx4DvRuMeQD4VU5QvGAV2omY - 50,000,000
 - **Treasury:** 3kgosLSB38oWNRqHjKPbxChSZQ46uzZYJoyK9GKxcefa - 150,000,000
 - **Community Rewards:** C5AHpRJYRrbzyUoh6rZhn4ZQpEJ9w2L8Aa9XBK32NvcN - 300,000,000
